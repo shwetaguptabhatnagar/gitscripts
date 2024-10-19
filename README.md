@@ -7,4 +7,5 @@ Includes
 - Commands
 - Tutorials
 - Remote
+- Videos
 
